@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, PHP, MySQL, React**
 
-- 👯 I’m looking to collaborate on [StudyCenter Website](studycenter.free.nf)
+- 👯 I’m looking to collaborate on [StudyCenter](studycenter.free.nf)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Its-vivek-sharma](https://github.com/Its-vivek-sharma)
 
